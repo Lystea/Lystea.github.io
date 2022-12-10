@@ -1,4 +1,4 @@
 # Lystea.github.io
 
- <label for="file">Downloading progress:</label>
-<progress id="file" value="32" max="100"> 32% </progress> 
+<label for="file">File progress:</label>
+<progress id="file" max="100" value="75"> 70% </progress>
